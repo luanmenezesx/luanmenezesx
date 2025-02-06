@@ -1,5 +1,11 @@
 ### Olá! Eu sou o Luan Guilherme 👋
 
+
+
+🎓 Estudante de **Desenvolvimento de Sistemas**  
+💻 Atualmente focado em **Back-end** e **Front-end**  
+📚 Buscando sempre aprender novas tecnologias
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=luanmenezesx&theme=chartreuse-dark&show_icons=true">
 </div>
