@@ -2,7 +2,7 @@
 
 
 
-🎓 Estudante de **Desenvolvimento de Sistemas**  
+🎓 Estudante de **Desenvolvimento de Sistemas e Sistemas Para Internet**  
 💻 Atualmente focado em **Back-end** e **Front-end**  
 📚 Buscando sempre aprender novas tecnologias
 
