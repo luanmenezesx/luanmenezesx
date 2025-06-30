@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luan Guilherme 👋
 
 
-
+🎓 Técnico em **Desenvolvimento de Sistemas**  
 🎓 Estudante de **Desenvolvimento de Sistemas e Sistemas Para Internet**  
 💻 Atualmente focado em **Back-end** e **Front-end**  
 📚 Buscando sempre aprender novas tecnologias
