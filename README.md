@@ -1,30 +1,74 @@
-### Olá! Eu sou o Luan Menezes 👋
+# Olá, eu sou o Luan Menezes! 👋
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3b82f6&width=435&lines=Estudante+de+Sistemas+para+Internet;Desenvolvedor+Front-end+%26+Back-end;Buscando+sempre+aprender+e+evoluir" alt="Typing SVG" />
+</p>
 
-🎓 Técnico em **Desenvolvimento de Sistemas**  
-🎓 Estudante de **Sistemas Para Internet**  
-💻 Atualmente focado em **Back-end** e **Front-end**  
-📚 Buscando sempre aprender novas tecnologias
+---
+
+### 💫 Sobre Mim
+
+Sou técnico em **Desenvolvimento de Sistemas** e estudante de **Sistemas para Internet**. Atualmente focado no desenvolvimento **Back-end** e **Front-end**, buscando criar soluções limpas, eficientes e de alto desempenho.
+
+*   🎓 **Estudando:** Sistemas Para Internet
+*   💻 **Foco:** Desenvolvimento Full Stack
+*   📚 **Estudo Atual:** Aperfeiçoando conceitos de arquitetura e novas tecnologias
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+Para manter o visual leve e moderno, as tecnologias que utilizo no meu dia a dia:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luanmenezesx&theme=chartreuse-dark&show_icons=true">
-</div>
- <br><br>
-<div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=luanmenezesx&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&rank_icon=github" alt="Estatísticas do Luan" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmenezesx&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+---
+
+### 🐍 Contribuições (Snake Game)
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/luan-guilherme-da-cruz-menezes-424337297/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      <a href="mailto:luangui2006@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanmenezesx/luanmenezesx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanmenezesx/luanmenezesx/output/github-contribution-grid-snake.svg">
+    <img alt="Jogo da Cobrinha dos Commits" src="https://raw.githubusercontent.com/luanmenezesx/luanmenezesx/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
+
+---
+
+### 🤝 Conecte-se Comigo
+
+Deseja conversar sobre projetos ou oportunidades? Sinta-se à vontade para entrar em contato!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/luan-guilherme-da-cruz-menezes-424337297/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:luangui2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
