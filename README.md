@@ -8,19 +8,16 @@
 
 ### 💫 Sobre Mim
 
-Sou técnico em **Desenvolvimento de Sistemas** e estudante de **Sistemas para Internet**. <br>
-Atualmente focado no desenvolvimento **Back-end** e **Front-end**, <br>
-buscando criar soluções limpas, eficientes e de alto desempenho.
+Técnico em **Desenvolvimento de Sistemas** e estudante de **Sistemas para Internet**. <br>
+Atualmente focado no desenvolvimento **Back-end** e **Front-end**!
 
 🎓 **Estudando:** Sistemas Para Internet  
 💻 **Foco:** Desenvolvimento Full Stack  
-📚 **Estudo Atual:** Aperfeiçoando conceitos de arquitetura e novas tecnologias  
+📚 **Estudo Atual:** Desenvolvimento de Processos com IA
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-
-Para manter o visual leve e moderno, as tecnologias que utilizo no meu dia a dia:
 
 <br>
 
